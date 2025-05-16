@@ -41,7 +41,7 @@ Using **Power BI**, I created a dynamic dashboard that:
   Chosen for its powerful data visualization features, user-friendly interface, and seamless DAX support.
 
 - **DAX (Data Analysis Expressions)**  
-  Used to create calculated columns and measures such as operating margin and dynamic time trends.
+  Used to create calculated columns and measures such as operating margin and dynamic time trends and functions like CALCULATE(), DIVIDE(), SWITCH(), SUMX() adn others.
 
 - **Power Query**  
   Utilized for transforming, cleaning, and preparing the data before modeling.
