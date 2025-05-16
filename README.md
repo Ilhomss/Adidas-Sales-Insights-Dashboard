@@ -55,11 +55,12 @@ Using **Power BI**, I created a dynamic dashboard that:
 
 ## 📊 Metrics of Success
 
-- 📈 Visualized over **$900M in total sales** and **2.47M+ units sold**.
-- 🌍 Identified **top-performing cities and regions** by sales and margin.
-- 📅 Tracked monthly sales trends to inform **inventory and marketing strategies**.
-- ⏱️ Saved hours of manual reporting and improved data access for stakeholders.
-
+-  Visualized over **$900M in total sales** and **2.47M+ units sold**.
+-  Found that the **West region** was the highest revenue contributor, while the **Southeast and Midwest lagged** — helping identify growth areas
+-  Discovered **Online channels** led with 939K+ units sold, surpassing **Outlet and In-store**, showing the shift in customer buying behavior
+-  Highlighted **Foot Locker and West Gear** as top-performing retailers, driving regional strategies
+-  Identified **Miami ($31.6M)** and **New York ($39.8M)** as the highest-performing cities, aiding targeted marketing decisions
+-  Used clean and interactive visuals (filters, slicers) to make data accessible for decision-makers
 ---
 
 ![image](https://github.com/user-attachments/assets/d3fa866a-c9a1-4a48-8d7f-e92f72ce5b32)
